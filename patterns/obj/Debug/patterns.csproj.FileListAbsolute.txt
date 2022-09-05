@@ -1,0 +1,7 @@
+C:\Users\shere\source\repos\patterns\patterns\obj\Debug\patterns.csprojAssemblyReference.cache
+C:\Users\shere\source\repos\patterns\patterns\obj\Debug\patterns.csproj.CoreCompileInputs.cache
+C:\Users\shere\source\repos\patterns\patterns\bin\Debug\patterns.exe.config
+C:\Users\shere\source\repos\patterns\patterns\bin\Debug\patterns.exe
+C:\Users\shere\source\repos\patterns\patterns\bin\Debug\patterns.pdb
+C:\Users\shere\source\repos\patterns\patterns\obj\Debug\patterns.exe
+C:\Users\shere\source\repos\patterns\patterns\obj\Debug\patterns.pdb
